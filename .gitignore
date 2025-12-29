@@ -87,7 +87,6 @@ dmypy.json
 .pyre/
 
 # Data files
-*.csv
 *.dat
 *.db
 *.sqlite
