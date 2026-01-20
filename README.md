@@ -23,3 +23,17 @@ Start Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
+
+## Results
+
+### Kaggle Titanic ML Competition
+
+**Score: 0.77033**
+
+Model: `RandomForestClassifier`
+
+Performance Metrics:
+- CV score: 0.8301
+- Val score: 0.8101
+- Difference: 0.0201
+- Verified score: 0.8230 ± 0.0353
